@@ -56,7 +56,6 @@ DFS to try initially
 BFS
 1) Look for all possible exits
 2) Randomly pick one to start and continue until all exits filled out
-3) 
 """
 
 
